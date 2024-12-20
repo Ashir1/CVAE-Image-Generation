@@ -1,0 +1,5 @@
+To train CVAE run:
+python coco_VAE.py
+
+To download data run:
+./coco_download.sh
